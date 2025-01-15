@@ -9,4 +9,9 @@ I currently work as a Multimedia Communication Specialist for a healthcare softw
 I took a web design class in undergrad that covered basic HTML and CSS. As part of my current job we use SquareSpace for our website but I've added some custom code using html, css, and javascript to make our website more unique than what's avaliable out of the box.
 
 ## Career Goals ##
-I would like to get a new job that doesn't involve me being a department of one or at least has pay that reflects the amount/ variety of work I do but unfortunately the job market is very competitive in my field. My goal for taking this particular class is to develope my skills further so I can stand out from other applicants. 
+<ol type="1">
+<li>Remote job</li>
+<li>Livable Wage</lii>
+<li>Boss who respects me</li>
+<li>Employer that encourages continuing education</li>
+</ol>
