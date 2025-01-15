@@ -1,6 +1,6 @@
 # My First Coding Assignment #
 
-<img src="Images/IMG_3316.jpeg" alt="Suwannee River at dusk">
+<img src="IMG_3316.jpeg" alt="Suwannee River at dusk">
 
 ## About Me ##
 I currently work as a Multimedia Communication Specialist for a healthcare software company. I'm a department of one so I handle all of our social media, email marketing, print design, and web design work. In my free time I enjoy outdoor activities such as hiking and backpacking.
